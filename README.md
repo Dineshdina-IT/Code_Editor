@@ -29,7 +29,7 @@
 
 # Link & References 
 
-- [Live Project Link](https://code-deck.vercel.app/)
+
 - [Judge0 CE API Testing](https://rapidapi.com/judge0-official/api/judge0-ce)
 - [Judge0 CE API Documentation](https://ce.judge0.com/)
 - [Styled Component Documentation](https://styled-components.com/docs/basics) -> for styling
